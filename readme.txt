@@ -2,11 +2,13 @@
 
 DESCRIPTION:
 
-AUGUSTINE is a clean and minimalist one-page personal website template for creative individuals 
-and professionals. It is the perfect solution for creating a striking online presence where you 
-can highlight your best works and showcase your skills and credentials. AUGUSTINE comes with all 
-the essential website components and features for creating an outstanding and great-looking 
-online resume that would grab everyone's attention.
+LUTHER is a modern, stylish, free personal website template designed for creative individuals 
+and professionals. It is the perfect template if you wish to build an online presence and create 
+a strong first impression on all your site visitors. Luther will help you craft a personal 
+professional website wherein you can showcase your works, talents, and present yourself on the 
+web in the best possible light. On top of that, the template is versatile and easy to customize 
+so with some modifications and a bit of creativity you even use it as a portfolio site for 
+digital studios or a landing page for your projects.
 
 ==================================================================================================
 
@@ -70,7 +72,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since AUGUSTINE is distributed for free, support is not offered. AUGUSTINE is coded according 
+Since LUTHER is distributed for free, support is not offered. LUTHER is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -97,7 +99,6 @@ always download the template files directly on our website(https://www.styleshou
 
 
 
-
 -------------------------------------------------------------------------------------------------------
 
 
@@ -106,21 +107,22 @@ SOURCES AND CREDITS:
 I've used the following resources as listed.
 
 Fonts:
- - Inter Font (https://fonts.google.com/specimen/Inter)
- - Castoro Font (https://fonts.google.com/specimen/Castoro)
+ - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
+ - DM Serif Display (https://fonts.google.com/specimen/DM+Serif+Display)
 
 Icons:
- - Boxicons (https://boxicons.com/)
+ - Iconmonstr (https://iconmonstr.com/)
 
 Stock Photos and Graphics:
  - Unsplash.com (https://unsplash.com/)
  
 Javascript Files:
+ - Anime.js (https://animejs.com/)
  - Swiper (https://swiperjs.com/)
  - MoveTo.js (https://github.com/hsnaydd/moveTo)
  - Prism.js (https://prismjs.com/)
- - Anime JS (https://animejs.com/)
- - PhotoSwipe (https://photoswipe.com/)
+ - Basic Lightbox (https://basiclightbox.electerious.com/)
+ - MailtoUI (https://mailtoui.com/)
 
 -------------------------------------------------------------------------------------------------------
 

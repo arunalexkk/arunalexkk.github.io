@@ -4373,4 +4373,10 @@ img.u-pull-left {
         padding : var(--vspace-0_5) 18vw;
     }
 }
-
+.hi_title__exjYy {
+    color: var(--current-text-bold);
+    font-family: var(--font-mono);
+    font-weight: var(--weight-strong);
+    letter-spacing: -.04em;
+    line-height: 1.125
+}

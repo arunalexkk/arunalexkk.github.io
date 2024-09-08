@@ -2657,7 +2657,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .text-pretitle {
     font-family    : var(--font-1);
-    font-size      : var(--text-sm);
+    font-size      : var(--text-md);
     font-weight    : 400;
     color          : var(--color-white);
     text-transform : uppercase;
@@ -4379,4 +4379,18 @@ img.u-pull-left {
     font-weight: var(--weight-strong);
     letter-spacing: -.04em;
     line-height: 1.125
+}
+
+.text-pretitle2.with-line{
+    font-family    : var(--font-1);
+    font-size      : var(--text-md);
+    padding-left : 3rem;
+    transform    : translateX(-3rem);
+    transform    : none;
+    color        : var(--color-1);
+    padding-left : 6rem;
+    transform    : translateX(-6rem);
+    text-transform : uppercase;
+   
+   
 }
